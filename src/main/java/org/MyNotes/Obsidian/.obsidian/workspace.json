@@ -1,0 +1,372 @@
+{
+  "main": {
+    "id": "e536a6035dfc5402",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b0bcbb2bf34acec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98d5c3fab6e6b302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Курс job4j.ru.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Курс job4j.ru"
+            }
+          },
+          {
+            "id": "ed7b09650beb57ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job4j/Потоки ввода-вывода.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Потоки ввода-вывода"
+            }
+          },
+          {
+            "id": "aa7b9802bd17460d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job4j/Ввод-вывод/Реализации потоков ввода.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Реализации потоков ввода"
+            }
+          },
+          {
+            "id": "63b00a9db38181fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job4j/Реализации потоков вывода.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Реализации потоков вывода"
+            }
+          },
+          {
+            "id": "9b25f4fb735dd157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job4j/Класс File.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Класс File"
+            }
+          },
+          {
+            "id": "9bb5cca882c5df33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job4j/Классы Path, Files, Paths.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Классы Path, Files, Paths"
+            }
+          },
+          {
+            "id": "1eb24b16ab467ba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job4j/Атрибуты файла.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Атрибуты файла"
+            }
+          },
+          {
+            "id": "167663f46fbbf1a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job4j/Ввод-вывод/Реализации потоков вывода.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Реализации потоков вывода"
+            }
+          },
+          {
+            "id": "62b721abb118e56c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Потоки данных (Data Streams).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Потоки данных (Data Streams)"
+            }
+          },
+          {
+            "id": "2b1d12c154820b88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job4j/Ввод-вывод/Файл произвольного доступа. RandomAccessFile.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Файл произвольного доступа. RandomAccessFile"
+            }
+          },
+          {
+            "id": "ec7651f877a3eea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job4j/Курс job4j.ru.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Курс job4j.ru"
+            }
+          },
+          {
+            "id": "8d55c9ed398599c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job4j/Потоки ввода-вывода.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Потоки ввода-вывода"
+            }
+          },
+          {
+            "id": "3bc3c8b9b3456d1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job4j/Страница для опытов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Страница для опытов"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fdf4438bd99643e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1987183b940374a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e37184fcb2ea819",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "0adad9e54417ea04",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "81544b82da9c572c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "59c88292dfbac495",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d0c56202e716059",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6543685b315c23ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Перевод проекта на версию Spring Boot 3+.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Перевод проекта на версию Spring Boot 3+"
+            }
+          },
+          {
+            "id": "2e09ef04b4f18cfd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Перевод проекта на версию Spring Boot 3+.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Перевод проекта на версию Spring Boot 3+"
+            }
+          },
+          {
+            "id": "ff1c5a6677117f69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "659e48b63184589f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Перевод проекта на версию Spring Boot 3+.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Перевод проекта на версию Spring Boot 3+"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "2b1d12c154820b88",
+  "lastOpenFiles": [
+    "Job4j/Ввод-вывод/Потоки данных (Data Streams).md",
+    "Job4j/Ввод-вывод/Файл произвольного доступа. RandomAccessFile.md",
+    "Job4j/Ввод-вывод/Реализации потоков вывода.md",
+    "Страница для опытов.md",
+    "Job4j/Ввод-вывод/Потоки ввода-вывода.md",
+    "Job4j/Ввод-вывод/Регулярные выражения.md",
+    "Job4j/Ввод-вывод/Атрибуты файла.md",
+    "Картинки/Pasted image 20250626085542.png",
+    "Job4j/Ввод-вывод/Реализации потоков ввода.md",
+    "Картинки/Pasted image 20250626100830.png",
+    "Картинки/Pasted image 20250626095838.png",
+    "Картинки/Pasted image 20250626095637.png",
+    "Картинки/Pasted image 20250626095105.png",
+    "Картинки/Pasted image 20250626094253.png",
+    "Картинки/Pasted image 20250626091418.png",
+    "Картинки/Pasted image 20250626091316.png",
+    "Картинки/Pasted image 20250626090915.png",
+    "Картинки/Pasted image 20250626090622.png",
+    "Job4j/Ввод-вывод",
+    "Job4j/Ввод-вывод/Классы Path, Files, Paths.md",
+    "Job4j/Ввод-вывод/Класс File.md",
+    "Job4j/Ввод-вывод/Курс job4j.ru.md",
+    "Job4j",
+    "Картинки",
+    "Ввод-вывод.md",
+    "Джуниор.md",
+    "Перевод проекта на версию Spring Boot 3+.md",
+    "создайте ссылку.md",
+    "Добро пожаловать.md"
+  ]
+}
