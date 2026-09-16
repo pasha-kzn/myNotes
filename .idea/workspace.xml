@@ -1,48 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0db5f029-541b-47d9-a4d0-847925b2625d" name="Changes" comment="house">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/MyNotes/SketchUp/House/Дом20 мебель.skb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/MyNotes/SketchUp/House/Дом20 мебель.skb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/MyNotes/SketchUp/House/Дом20 мебель.skp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/MyNotes/SketchUp/House/Дом20 мебель.skp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/MyNotes/SketchUp/House/Мебель/Дочь Стол.b3d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/MyNotes/SketchUp/House/Мебель/Дочь Шкаф.b3d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/MyNotes/SketchUp/House/Мебель/Наша Стол.b3d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/MyNotes/SketchUp/House/Мебель/Наша Тумбочка.b3d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/MyNotes/SketchUp/House/Мебель/Наша Шкаф.b3d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/MyNotes/SketchUp/House/Мебель/Сын Стол.b3d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/MyNotes/SketchUp/House/Мебель/Сын Шкаф.b3d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/MyNotes/SketchUp/House/Мебель/Тех комната СУ.b3d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/MyNotes/SketchUp/House/Мебель/Тех комната Столешница над стиралкой.b3d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/MyNotes/SketchUp/House/Мебель/Тех комната Шкаф.b3d" beforeDir="false" />
+    <list default="true" id="00b704f6-cdd7-4041-a0ba-6c6219dba1de" name="Changes" comment="first" />
+    <list id="37ccfadc-be79-448d-a74e-6a4e139f4419" name="NotCommited" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/MyNotes/SketchUp/House/Провода-до натажения потолков 09.11.2025/Провода/VID-20250817-WA0004.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/MyNotes/SketchUp/House/Трубы теплого пола/VID_20240910_121114.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/MyNotes/SketchUp/House/Трубы теплого пола/VID_20240910_123844.mp4" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;pasha-kzn&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/pasha-kzn/myNotes.git&quot;,
-    &quot;accountId&quot;: &quot;e7a0d65d-8368-4065-97b0-4425d11dda38&quot;
-  }
-}</component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 4
 }</component>
-  <component name="ProjectId" id="32Gz0IdD7MpRs2vM8MeLMBiJQ4B" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2xoByVBHZdsFk8gOqzt7ybMKy4m" />
   <component name="ProjectViewState">
-    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -70,91 +55,119 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0db5f029-541b-47d9-a4d0-847925b2625d" name="Changes" comment="" />
-      <created>1757061473264</created>
+      <changelist id="00b704f6-cdd7-4041-a0ba-6c6219dba1de" name="Changes" comment="" />
+      <changelist id="37ccfadc-be79-448d-a74e-6a4e139f4419" name="NotCommited" comment="" />
+      <created>1748594804802</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1757061473264</updated>
-      <workItem from="1757061474470" duration="353000" />
-      <workItem from="1757092278043" duration="32000" />
-      <workItem from="1757277130631" duration="78000" />
-      <workItem from="1757363659167" duration="34000" />
-      <workItem from="1758140180684" duration="25000" />
-      <workItem from="1758225115091" duration="3000" />
-      <workItem from="1758785861521" duration="93000" />
-      <workItem from="1759257172917" duration="75000" />
-      <workItem from="1759483142732" duration="369000" />
-      <workItem from="1759833203402" duration="85000" />
-      <workItem from="1761405376628" duration="11000" />
-      <workItem from="1762673242445" duration="92000" />
-      <workItem from="1769021537757" duration="76000" />
-      <workItem from="1784276543578" duration="8000" />
+      <updated>1748594804802</updated>
+      <workItem from="1748594805926" duration="2256000" />
+      <workItem from="1748614664378" duration="87000" />
+      <workItem from="1757059844811" duration="7674000" />
+      <workItem from="1757081194934" duration="1163000" />
+      <workItem from="1757312760785" duration="29000" />
+      <workItem from="1758533397249" duration="123000" />
+      <workItem from="1758572765645" duration="54000" />
+      <workItem from="1758785923407" duration="1046000" />
+      <workItem from="1759038849695" duration="21000" />
+      <workItem from="1759128699417" duration="610000" />
+      <workItem from="1759483879492" duration="47000" />
+      <workItem from="1759833707207" duration="660000" />
+      <workItem from="1762673374713" duration="109000" />
+      <workItem from="1762769673557" duration="599000" />
+      <workItem from="1762927509996" duration="238000" />
+      <workItem from="1768832895239" duration="1182000" />
+      <workItem from="1784808062559" duration="1349000" />
     </task>
-    <task id="LOCAL-00001" summary="house">
+    <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
-      <created>1757061799440</created>
+      <created>1757060733540</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1757061799440</updated>
+      <updated>1757060733540</updated>
     </task>
-    <task id="LOCAL-00002" summary="house">
+    <task id="LOCAL-00002" summary="first">
       <option name="closed" value="true" />
-      <created>1757277173646</created>
+      <created>1757061018305</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1757277173646</updated>
+      <updated>1757061018305</updated>
     </task>
-    <task id="LOCAL-00003" summary="house">
+    <task id="LOCAL-00003" summary="first">
       <option name="closed" value="true" />
-      <created>1757363681659</created>
+      <created>1757061070969</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1757363681659</updated>
+      <updated>1757061070969</updated>
     </task>
-    <task id="LOCAL-00004" summary="house">
+    <task id="LOCAL-00004" summary="first">
       <option name="closed" value="true" />
-      <created>1758140196212</created>
+      <created>1757089888007</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1758140196212</updated>
+      <updated>1757089888007</updated>
     </task>
-    <task id="LOCAL-00005" summary="house">
+    <task id="LOCAL-00005" summary="first">
       <option name="closed" value="true" />
-      <created>1759483508208</created>
+      <created>1759038863294</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1759483508208</updated>
+      <updated>1759038863294</updated>
     </task>
-    <task id="LOCAL-00006" summary="house">
+    <task id="LOCAL-00006" summary="first">
       <option name="closed" value="true" />
-      <created>1759833225544</created>
+      <created>1768833107420</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1759833225544</updated>
+      <updated>1768833107420</updated>
     </task>
-    <task id="LOCAL-00007" summary="house">
+    <task id="LOCAL-00007" summary="first">
       <option name="closed" value="true" />
-      <created>1759833262800</created>
+      <created>1784808162672</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1759833262800</updated>
+      <updated>1784808162672</updated>
     </task>
-    <task id="LOCAL-00008" summary="house">
+    <task id="LOCAL-00008" summary="first">
       <option name="closed" value="true" />
-      <created>1762673307690</created>
+      <created>1784808921230</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1762673307690</updated>
+      <updated>1784808921230</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="first">
+      <option name="closed" value="true" />
+      <created>1784809326129</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1784809326129</updated>
+    </task>
+    <task id="LOCAL-00010" summary="first">
+      <option name="closed" value="true" />
+      <created>1784809356820</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1784809356820</updated>
+    </task>
+    <task id="LOCAL-00011" summary="first">
+      <option name="closed" value="true" />
+      <created>1784809405916</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1784809405916</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +185,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="house" />
-    <option name="LAST_COMMIT_MESSAGE" value="house" />
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
 </project>
